@@ -1,10 +1,7 @@
-langchain.text_splitters
 streamlit
-PyMuPDF
+fitz
 langchain
 langchain-google-genai
-langchain-community
-langchain-core
 faiss-cpu
-chromadb 
-langchain-text-splitters
+numpy
+requests
