@@ -1,7 +1,9 @@
 streamlit
+frontend
 fitz
 langchain
 langchain-google-genai
 faiss-cpu
 numpy
 requests
+
