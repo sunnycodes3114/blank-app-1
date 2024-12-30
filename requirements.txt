@@ -1,10 +1,10 @@
-streamlit
-PyMuPDF
-langchain
-langchain-google-genai
-langchain-community
-langchain-core
-langchain-text-splitters
-chromadb
-
+streamlit==1.22.0
+PyMuPDF==1.19.7
+langchain==0.0.232
+langchain-google-genai==0.1.0
+langchain-community==0.0.1
+langchain-core==0.0.29
+langchain-text-splitters==0.0.16
+faiss-cpu==1.7.4
+chromadb==0.3.21 
 
