@@ -1,4 +1,5 @@
 streamlit
+PyMuPDF
 frontend
 fitz
 langchain
