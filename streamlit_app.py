@@ -8,7 +8,7 @@ from langchain.prompts import ChatPromptTemplate, HumanMessagePromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.messages import SystemMessage
-from langchain.text_splitters import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitte
 from langchain.schema import Document  # Import the Document class for storing text content
 import faiss
 
